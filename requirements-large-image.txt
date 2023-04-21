@@ -1,0 +1,5 @@
+large-image>=1.20.5
+large-image-source-deepzoom>=1.20.5
+large-image-source-dicom>=1.20.5
+large-image-source-openjpeg>=1.20.5
+large-image-source-pil>=1.20.5
